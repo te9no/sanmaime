@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tatuy/Documents/KicadData/kicad_data_public/sanmaime/sanmaime/keymaps/a2j",
-      "program": "c:/Users/tatuy/Documents/KicadData/kicad_data_public/sanmaime/sanmaime/keymaps/a2j/build/Debug/outDebug",
+      "cwd": "c:/Users/tatuy/Documents/KicadData/kicad_data_public/yonmaime",
+      "program": "c:/Users/tatuy/Documents/KicadData/kicad_data_public/yonmaime/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
